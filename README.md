@@ -41,8 +41,7 @@ Embora o projeto tenha como principal referência os modos carreira dos jogos FI
 ## 4 - Artefatos de engenharia
  - Design das Telas:
    A modelagem das telas se encontra no seguinte link:
-   
-   https://www.figma.com/site/AWRhqrBIHWWeiFfDVZj3g7/FCM-DESK?node-id=0-1&t=dB8C8coOD6zf7DpI-1
+   https://www.figma.com/design/BRSRmXtw3Jjt64ObDp9xCC/FCMDESK?node-id=0-1&t=RFXWvQqohzTYNurS-1
  - Modelo do Banco de Dados:
    A modelagem do banco de dados se encontra no seguinte link:
    https://app.brmodeloweb.com/publicview/6ab99151ab16437217f9cb7b
