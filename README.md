@@ -1,7 +1,7 @@
 # FCM-Desk
 
 ## O que é o FCM?
-O FCM(FC Career Manager) é um gerenciador de modo carreira do FIFA/EA FC, que visa tornar mais prático anotar os dados de cada temporada do seu modo carreira e aumentar a imersão ao jogar uma carreira, anotando quem foi o Artilehiro, Destaque, Garçom do time, e demais estatísticas da temporada que por padrão o jogo descarta sempre que uma temporada nova se inicia.
+O FCM(FC Career Manager) é um gerenciador de modo carreira do FIFA/EA FC, que visa tornar mais prático anotar os dados de cada temporada do seu modo carreira e aumentar a imersão ao jogar uma carreira, anotando quem foi o Artilheiro, Destaque, Garçom do time, e demais estatísticas da temporada que por padrão o jogo descarta sempre que uma temporada nova se inicia.
 
 ## 1 - Motivação do Projeto:
  O FCM (FC Career Manager) surgiu originalmente como uma aplicação mobile desenvolvida para facilitar o registro e acompanhamento de informações de modos carreira em jogos da série FIFA/EA FC.
