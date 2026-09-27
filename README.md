@@ -52,3 +52,11 @@ Embora o projeto tenha como principal referência os modos carreira dos jogos FI
    A modelagem do banco de dados se encontra no seguinte link:
    https://app.brmodeloweb.com/publicview/6805ab4534ce7610b017e20b
    
+## Sprints do planejamento
+- [ ] Semana 1 - Estrutura Inicial - Criar projeto laravel, configurar banco de dados e estrutura inicial
+- [ ] Semana 2 - Usuários e carreiras - Autenticação e CRUD de carreiras
+- [ ] Semana 3 - Temporadas e jogadores - CRUD de temporadas, jogadores e associação com carreiras
+- [ ] Semana 4 - Estatísticas e transferências - Implementar estatísticas, destaques e histórico de transferências
+- [ ] Semana 5 - Títulos e histórico - Implementar registro de títulos e visualização do histórico da carreira
+- [ ] Semana 6 - Interface e refinamento - Finalizar telas, validações, navegação e responsividade
+- [ ] Semana 7 - Testes e entrega - Testes, correções, ajustes visuais e documentação
