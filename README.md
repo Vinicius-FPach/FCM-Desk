@@ -41,10 +41,11 @@ Embora o projeto tenha como principal referência os modos carreira dos jogos FI
 ## 4 - Artefatos de engenharia
  - Design das Telas:
    A modelagem das telas se encontra no seguinte link:
+   
    https://www.figma.com/site/AWRhqrBIHWWeiFfDVZj3g7/FCM-DESK?node-id=0-1&t=dB8C8coOD6zf7DpI-1
  - Modelo do Banco de Dados:
    A modelagem do banco de dados se encontra no seguinte link:
-   https://app.brmodeloweb.com/publicview/6805ab4534ce7610b017e20b
+   https://app.brmodeloweb.com/publicview/6ab99151ab16437217f9cb7b
    
 ## Sprints do planejamento
 - [ ] Semana 1 - Estrutura Inicial - Criar projeto laravel, configurar banco de dados e estrutura inicial
