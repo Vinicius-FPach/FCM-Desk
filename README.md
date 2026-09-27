@@ -38,13 +38,7 @@ Embora o projeto tenha como principal referência os modos carreira dos jogos FI
  - Histórico da carreira: visualização consolidada das informações acumuladas ao longo das temporadas.
  - Consulta e navegação: acesso às informações de diferentes temporadas e jogadores de forma organizada.
 
-## 4 - Tecnologias
- - Laravel
- - PHP
- - MYSQL
- - Blade
-
-## 5 - Artefatos de engenharia
+## 4 - Artefatos de engenharia
  - Design das Telas:
    A modelagem das telas se encontra no seguinte link:
    https://www.figma.com/site/AWRhqrBIHWWeiFfDVZj3g7/FCM-DESK?node-id=0-1&t=dB8C8coOD6zf7DpI-1
@@ -60,3 +54,9 @@ Embora o projeto tenha como principal referência os modos carreira dos jogos FI
 - [ ] Semana 5 - Títulos e histórico - Implementar registro de títulos e visualização do histórico da carreira
 - [ ] Semana 6 - Interface e refinamento - Finalizar telas, validações, navegação e responsividade
 - [ ] Semana 7 - Testes e entrega - Testes, correções, ajustes visuais e documentação
+
+## 5 - Tecnologias
+ - Laravel
+ - PHP
+ - MYSQL
+ - Blade
