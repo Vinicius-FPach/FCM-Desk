@@ -14,6 +14,12 @@ return new class extends Migration
         Schema::create('transfers', function (Blueprint $table) {
             $table->id();
             $table->timestamps();
+
+            $table->integer('value');
+            $table->string('originTeam');
+            $table->string('destinyTeam');
+
+            $table->foreignId('player_id')->unique()->constrained()->cascadeOnDelete();
         });
     }
 

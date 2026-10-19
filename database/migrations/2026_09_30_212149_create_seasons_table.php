@@ -14,6 +14,10 @@ return new class extends Migration
         Schema::create('seasons', function (Blueprint $table) {
             $table->id();
             $table->timestamps();
+
+            $table->integer('wins');
+            $table->integer('draws');
+            $table->integer('loses');
         });
     }
 
