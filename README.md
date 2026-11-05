@@ -47,7 +47,7 @@ Embora o projeto tenha como principal referência os modos carreira dos jogos FI
    https://app.brmodeloweb.com/publicview/6ab99151ab16437217f9cb7b
    
 ## Sprints do planejamento
-- [ ] Semana 1 - Estrutura Inicial - Criar projeto laravel, configurar banco de dados e estrutura inicial
+- [X] Semana 1 - Estrutura Inicial - Criar projeto laravel, configurar banco de dados e estrutura inicial
 - [ ] Semana 2 - Usuários e carreiras - Autenticação e CRUD de carreiras
 - [ ] Semana 3 - Temporadas e jogadores - CRUD de temporadas, jogadores e associação com carreiras
 - [ ] Semana 4 - Estatísticas e transferências - Implementar estatísticas, destaques e histórico de transferências
