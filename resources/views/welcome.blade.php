@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
-    </head>
-    <body>
-        <h1>FCMDESK</h1>
-    </body>
-</html>
+@extends('layouts.public')
+
+@section('content')
+    <h1>FCMDESK<h1>
+@endsection
