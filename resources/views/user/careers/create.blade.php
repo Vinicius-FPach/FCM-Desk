@@ -1,5 +1,9 @@
-<h1>Criar Carreira</h1>
+@extends('layouts.user')
 
+@section('title')
+Criar Carreira
+@endsection
+@section('content')
 <form action="{{ route('admin.career.store') }}" method="POST">
     @csrf
 
@@ -7,3 +11,4 @@
     <input type="text" name="name" id="name">
 
     <button type="submit">Salvar</button>
+@endsection

@@ -1,5 +1,9 @@
-<h1>Detalhes da Carreira</h1>
+@extends('layouts.user')
 
+@section('title')
+Detalhes da Carreira
+@endsection
+@section('content')
 <a href="{{ route('user.careers.edit', ['id' => $career['id']]) }}">Editar</a>
 
 <p>
@@ -9,3 +13,4 @@
 <p>
     <strong>Nome:</strong> {{ $career['name'] }}
 </p>
+@endsection

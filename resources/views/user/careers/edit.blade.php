@@ -1,7 +1,9 @@
 @extends('layouts.user')
 
+@section('title')
+Modificar Carreira
+@endsection
 @section('content')
-<h1>Modificar a Carreira</h1>
 
 <form action="{{ route('user.careers.update', ['id' => $career['id']]) }}" method="POST">
     @csrf

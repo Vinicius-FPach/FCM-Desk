@@ -56,5 +56,7 @@ class CareerController extends Controller
         }
     }
 
-    public function create(){}
+    public function create(){
+        return view('user.careers.create');
+    }
 }
